@@ -18,8 +18,10 @@ p{
 	font-size:14px;
 	font-weight:bold;
 }
-.podpis{font-weight:bold;
-text-align:center;
+.podpis{
+	color:#E459EF;
+	font-weight:bold;
+	text-align:center;
 }
 .podpis_verh{
 	font-weight:bold;
